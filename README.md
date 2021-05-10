@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### GitHub Stats 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=talin2412&show_icons=true&theme="default")
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=talin2412&theme="default"&layout=compact)
+
 <!--
 **talin2412/talin2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
